@@ -1,4 +1,6 @@
 # CP-Quiz2 </br>
-## Group </br>
-Arvin Yuwono
-Ian Wirawan
+2nd Quiz of Computational Physics
+## Group</br>
+### Class L4BC </br>
+Arvin Yuwono </br>
+Ian Wirawan </br>
